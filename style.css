@@ -344,10 +344,11 @@ ul {
 
 ul {
     text-align: right;
-    margin-left: 20%;
-    font-size: 16px;
+    margin-left: 19%;
+    font-size: 12px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     z-index: auto;
+    
 }
 
 li {
@@ -385,6 +386,7 @@ li {
    
 }
 }
+
 
 
 
