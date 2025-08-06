@@ -458,7 +458,7 @@ li {
 }
 .name {
   margin-top: 1px;
-  font-size: 1.125rem;
+  font-size: 15px;
   line-height: 10px;
   font-weight: 600;
   --tw-text-opacity: 1;
@@ -469,9 +469,10 @@ li {
   display: -webkit-box;
   -webkit-box-orient: vertical;
   margin-top: 10px;
-
+font-size: 10px;
   color: rgb(0, 0, 0);
 }
+
 
 }
 
